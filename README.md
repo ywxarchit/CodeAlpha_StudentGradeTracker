@@ -112,4 +112,36 @@ Highest Grade
 Lowest Grade
 ```
 
-These statistics are generated from the
+These statistics are generated from the grades stored for the students.
+
+---
+
+## 🎯 Internship Task
+
+**Organization:** CodeAlpha
+**Program:** Java Programming Internship
+**Task:** Student Grade Tracker
+
+This project was created to gain practical experience with **Java, Object-Oriented Programming, Collections, user input handling, and console-based application development**.
+
+---
+
+## 👨‍💻 Author
+
+**Archit Singh**
+
+🎓 B.Tech — Computer Science & Engineering
+
+---
+
+## 📌 Project Purpose
+
+This project was developed for **educational and internship purposes** as part of the CodeAlpha Java Programming Internship.
+
+It represents a step forward in building practical Java programming skills and understanding how individual programming concepts can be combined into a complete application.
+
+---
+
+⭐ **If you find this project useful, feel free to explore the repository and check out the implementation.**
+
+#Java #CodeAlpha #JavaProject #StudentGradeTracker #OOP #ArrayList
